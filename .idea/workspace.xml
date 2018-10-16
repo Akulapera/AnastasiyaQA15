@@ -60,25 +60,25 @@
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="gradle" value="3" />
-          <entry key="java" value="13" />
+          <entry key="java" value="17" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="Groovy" value="3" />
-          <entry key="JAVA" value="13" />
+          <entry key="JAVA" value="17" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="Groovy" value="15" />
-          <entry key="JAVA" value="646" />
+          <entry key="JAVA" value="1497" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="gradle" value="15" />
-          <entry key="java" value="646" />
+          <entry key="java" value="1497" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.vcs.git.usages" />
@@ -87,22 +87,57 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/first-selenium-project/src/test/java/com/tel/ran/qa15/sandbox/homework2/OpenWikiAndSearchJava.java">
+        <entry file="file://$PROJECT_DIR$/addressbook-selenium-tests/src/test/java/com/telran/addressbook/GroupCreationTests.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="250">
-              <caret line="22" column="1" lean-forward="true" selection-start-line="22" selection-start-column="1" selection-end-line="22" selection-end-column="1" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
+            <state relative-caret-position="17">
+              <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/first-selenium-project/src/test/java/com/tel/ran/qa15/sandbox/Ebay.java">
+        <entry file="file://$PROJECT_DIR$/addressbook-selenium-tests/src/test/java/com/telran/addressbook/TestBase.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="505">
-              <caret line="43" lean-forward="true" selection-start-line="43" selection-end-line="43" />
+            <state relative-caret-position="75">
+              <caret line="58" column="28" lean-forward="true" selection-start-line="58" selection-start-column="28" selection-end-line="58" selection-end-column="28" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#988#989#0" expanded="true" />
+                <element signature="e#1068#1069#0" expanded="true" />
+                <element signature="e#1109#1110#0" expanded="true" />
+                <element signature="e#1166#1167#0" expanded="true" />
+                <element signature="e#1454#1455#0" expanded="true" />
+                <element signature="e#1508#1509#0" expanded="true" />
+                <element signature="e#1544#1545#0" expanded="true" />
+                <element signature="e#1622#1623#0" expanded="true" />
+                <element signature="e#1693#1694#0" expanded="true" />
+                <element signature="e#1733#1734#0" expanded="true" />
+                <element signature="e#1790#1791#0" expanded="true" />
+                <element signature="e#1833#1834#0" expanded="true" />
+                <element signature="e#1913#1914#0" expanded="true" />
+                <element signature="e#1946#1947#0" expanded="true" />
+                <element signature="e#1999#2000#0" expanded="true" />
+                <element signature="e#2032#2033#0" expanded="true" />
+                <element signature="e#2085#2086#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/addressbook-selenium-tests/src/test/java/com/telran/addressbook/GroupModificationTests.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="255">
+              <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/addressbook-selenium-tests/src/test/java/com/telran/addressbook/GroupDelete.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="238">
+              <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
             </state>
           </provider>
         </entry>
@@ -948,13 +983,16 @@
         <option value="$PROJECT_DIR$/first-selenium-project/src/test/java/com/tel/ran/qa15/sandbox/Lesson2/WikiHomePageTests.java" />
         <option value="$PROJECT_DIR$/first-selenium-project/src/test/java/com/tel/ran/qa15/sandbox/Lesson2/TestBase.java" />
         <option value="$PROJECT_DIR$/addressbook-selenium-tests/build.gradle" />
-        <option value="$PROJECT_DIR$/addressbook-selenium-tests/src/test/java/com/telran/addressbook/GroupCreationTests.java" />
         <option value="$PROJECT_DIR$/first-selenium-project/src/test/java/com/tel/ran/qa15/sandbox/homework1/EdgeOpenWiki.java" />
         <option value="$PROJECT_DIR$/first-selenium-project/src/test/java/com/tel/ran/qa15/sandbox/homework1/FirefoxOpenWiki.java" />
         <option value="$PROJECT_DIR$/first-selenium-project/src/test/java/com/tel/ran/qa15/sandbox/homework1/ChromOpenWiki.java" />
-        <option value="$PROJECT_DIR$/first-selenium-project/src/test/java/com/tel/ran/qa15/sandbox/homework2/OpenWikiAndSearchJava.java" />
         <option value="$PROJECT_DIR$/first-selenium-project/src/test/java/com/tel/ran/qa15/sandbox/homework2/TestBase.java" />
         <option value="$PROJECT_DIR$/first-selenium-project/src/test/java/com/tel/ran/qa15/sandbox/Ebay.java" />
+        <option value="$PROJECT_DIR$/first-selenium-project/src/test/java/com/tel/ran/qa15/sandbox/homework2/OpenWikiAndSearchJava.java" />
+        <option value="$PROJECT_DIR$/addressbook-selenium-tests/src/test/java/com/telran/addressbook/GroupCreationTests.java" />
+        <option value="$PROJECT_DIR$/addressbook-selenium-tests/src/test/java/com/telran/addressbook/GroupModificationTests.java" />
+        <option value="$PROJECT_DIR$/addressbook-selenium-tests/src/test/java/com/telran/addressbook/GroupDelete.java" />
+        <option value="$PROJECT_DIR$/addressbook-selenium-tests/src/test/java/com/telran/addressbook/TestBase.java" />
       </list>
     </option>
   </component>
@@ -998,33 +1036,11 @@
             </path>
             <path>
               <item name="first-selenium-project" type="b2602c69:ProjectViewProjectNode" />
-              <item name="first-selenium-project" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-            </path>
-            <path>
-              <item name="first-selenium-project" type="b2602c69:ProjectViewProjectNode" />
-              <item name="first-selenium-project" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="first-selenium-project" type="b2602c69:ProjectViewProjectNode" />
-              <item name="first-selenium-project" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-            </path>
-            <path>
-              <item name="first-selenium-project" type="b2602c69:ProjectViewProjectNode" />
-              <item name="first-selenium-project" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="addressbook-selenium-tests" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="test" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="first-selenium-project" type="b2602c69:ProjectViewProjectNode" />
-              <item name="first-selenium-project" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="sandbox" type="462c0819:PsiDirectoryNode" />
+              <item name="addressbook" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -1035,7 +1051,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1539528213517" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1539625949180" />
     <property name="extract.method.default.visibility" value="public" />
     <property name="jdk.selected.JAVA_MODULE" value="1.8" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../etarQa15Class" />
@@ -1046,6 +1062,7 @@
   </component>
   <component name="RecentsManager">
     <key name="CreateClassDialog.RecentsKey">
+      <recent name="com.telran.addressbook" />
       <recent name="com.tel.ran.qa15.sandbox.Lesson2" />
     </key>
   </component>
@@ -1061,25 +1078,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="TestNG.Ebay.openSiteTest">
-    <configuration name="ChromOpenWiki.testOpenWikiInChrome" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="first-selenium-project_test" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.tel.ran.qa15.sandbox.homework1.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="com.tel.ran.qa15.sandbox.homework1" />
-      <option name="MAIN_CLASS_NAME" value="com.tel.ran.qa15.sandbox.homework1.ChromOpenWiki" />
-      <option name="METHOD_NAME" value="testOpenWikiInChrome" />
-      <option name="TEST_OBJECT" value="METHOD" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="TestNG.GroupDelete.testGroupDeletion">
     <configuration name="Ebay.openSiteTest" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
       <module name="first-selenium-project_test" />
       <extension name="coverage">
@@ -1098,17 +1097,17 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="EdgeOpenWiki.testOpenWikiInEdge" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="first-selenium-project_test" />
+    <configuration name="GroupCreationTests.testGroupCreation" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="addressbook-selenium-tests_test" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.tel.ran.qa15.sandbox.homework1.*" />
+          <option name="PATTERN" value="com.telran.addressbook.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="com.tel.ran.qa15.sandbox.homework1" />
-      <option name="MAIN_CLASS_NAME" value="com.tel.ran.qa15.sandbox.homework1.EdgeOpenWiki" />
-      <option name="METHOD_NAME" value="testOpenWikiInEdge" />
+      <option name="PACKAGE_NAME" value="com.telran.addressbook" />
+      <option name="MAIN_CLASS_NAME" value="com.telran.addressbook.GroupCreationTests" />
+      <option name="METHOD_NAME" value="testGroupCreation" />
       <option name="TEST_OBJECT" value="METHOD" />
       <properties />
       <listeners />
@@ -1116,17 +1115,35 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="FirefoxOpenWiki.testOpenWikiInFirefox" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="first-selenium-project_test" />
+    <configuration name="GroupDelete.testGroupDeletion" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="addressbook-selenium-tests_test" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.tel.ran.qa15.sandbox.homework1.*" />
+          <option name="PATTERN" value="com.telran.addressbook.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="com.tel.ran.qa15.sandbox.homework1" />
-      <option name="MAIN_CLASS_NAME" value="com.tel.ran.qa15.sandbox.homework1.FirefoxOpenWiki" />
-      <option name="METHOD_NAME" value="testOpenWikiInFirefox" />
+      <option name="PACKAGE_NAME" value="com.telran.addressbook" />
+      <option name="MAIN_CLASS_NAME" value="com.telran.addressbook.GroupDelete" />
+      <option name="METHOD_NAME" value="testGroupDeletion" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GroupModificationTests.testGroupModification" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="addressbook-selenium-tests_test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.telran.addressbook.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.telran.addressbook" />
+      <option name="MAIN_CLASS_NAME" value="com.telran.addressbook.GroupModificationTests" />
+      <option name="METHOD_NAME" value="testGroupModification" />
       <option name="TEST_OBJECT" value="METHOD" />
       <properties />
       <listeners />
@@ -1153,19 +1170,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="TestNG.ChromOpenWiki.testOpenWikiInChrome" />
-      <item itemvalue="TestNG.EdgeOpenWiki.testOpenWikiInEdge" />
-      <item itemvalue="TestNG.FirefoxOpenWiki.testOpenWikiInFirefox" />
       <item itemvalue="TestNG.OpenWikiAndSearchJava.openSiteTest" />
       <item itemvalue="TestNG.Ebay.openSiteTest" />
+      <item itemvalue="TestNG.GroupCreationTests.testGroupCreation" />
+      <item itemvalue="TestNG.GroupModificationTests.testGroupModification" />
+      <item itemvalue="TestNG.GroupDelete.testGroupDeletion" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="TestNG.GroupDelete.testGroupDeletion" />
+        <item itemvalue="TestNG.GroupModificationTests.testGroupModification" />
+        <item itemvalue="TestNG.GroupCreationTests.testGroupCreation" />
         <item itemvalue="TestNG.Ebay.openSiteTest" />
         <item itemvalue="TestNG.OpenWikiAndSearchJava.openSiteTest" />
-        <item itemvalue="TestNG.FirefoxOpenWiki.testOpenWikiInFirefox" />
-        <item itemvalue="TestNG.EdgeOpenWiki.testOpenWikiInEdge" />
-        <item itemvalue="TestNG.ChromOpenWiki.testOpenWikiInChrome" />
       </list>
     </recent_temporary>
   </component>
@@ -1183,27 +1200,6 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="WikiHomePageTests_testOpeningEngWiki - 2018.10.04 at 20h 40m 27s.xml">
-      <configuration name="WikiHomePageTests.testOpeningEngWiki" configurationId="TestNG" />
-    </history-entry>
-    <history-entry file="WikiHomePageTests_testOpeningEngWiki - 2018.10.04 at 20h 40m 38s.xml">
-      <configuration name="WikiHomePageTests.testOpeningEngWiki" configurationId="TestNG" />
-    </history-entry>
-    <history-entry file="WikiHomePageTests_testOpeningEngWiki - 2018.10.04 at 20h 41m 49s.xml">
-      <configuration name="WikiHomePageTests.testOpeningEngWiki" configurationId="TestNG" />
-    </history-entry>
-    <history-entry file="WikiHomePageTests_testOpeningEngWiki - 2018.10.04 at 20h 42m 41s.xml">
-      <configuration name="WikiHomePageTests.testOpeningEngWiki" configurationId="TestNG" />
-    </history-entry>
-    <history-entry file="WikiHomePageTests_testOpeningEngWiki - 2018.10.04 at 20h 59m 49s.xml">
-      <configuration name="WikiHomePageTests.testOpeningEngWiki" configurationId="TestNG" />
-    </history-entry>
-    <history-entry file="ChromOpenWiki_testOpenWikiInChrome - 2018.10.14 at 17h 39m 00s.xml">
-      <configuration name="ChromOpenWiki.testOpenWikiInChrome" configurationId="TestNG" />
-    </history-entry>
-    <history-entry file="EdgeOpenWiki_testOpenWikiInEdge - 2018.10.14 at 17h 39m 24s.xml">
-      <configuration name="EdgeOpenWiki.testOpenWikiInEdge" configurationId="TestNG" />
-    </history-entry>
     <history-entry file="FirefoxOpenWiki_testOpenWikiInFirefox - 2018.10.14 at 17h 39m 39s.xml">
       <configuration name="FirefoxOpenWiki.testOpenWikiInFirefox" configurationId="TestNG" />
     </history-entry>
@@ -1213,11 +1209,33 @@
     <history-entry file="Ebay_openSiteTest - 2018.10.14 at 17h 43m 00s.xml">
       <configuration name="Ebay.openSiteTest" configurationId="TestNG" />
     </history-entry>
+    <history-entry file="GroupCreationTests_testGroupCreation - 2018.10.15 at 19h 25m 15s.xml">
+      <configuration name="GroupCreationTests.testGroupCreation" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="GroupCreationTests_testGroupCreation - 2018.10.15 at 19h 27m 24s.xml">
+      <configuration name="GroupCreationTests.testGroupCreation" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="GroupCreationTests_testGroupCreation - 2018.10.15 at 19h 29m 16s.xml">
+      <configuration name="GroupCreationTests.testGroupCreation" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="GroupCreationTests_testGroupCreation - 2018.10.15 at 19h 32m 14s.xml">
+      <configuration name="GroupCreationTests.testGroupCreation" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="GroupModificationTests_testGroupModification - 2018.10.15 at 20h 46m 01s.xml">
+      <configuration name="GroupModificationTests.testGroupModification" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="GroupDelete_testGroupDeletion - 2018.10.15 at 20h 52m 21s.xml">
+      <configuration name="GroupDelete.testGroupDeletion" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="GroupDelete_testGroupDeletion - 2018.10.15 at 20h 52m 32s.xml">
+      <configuration name="GroupDelete.testGroupDeletion" configurationId="TestNG" />
+    </history-entry>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="-7" width="1295" height="695" extended-state="6" />
+    <frame x="-7" y="-7" width="1295" height="695" extended-state="7" />
+    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.28987855" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.28987855" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -1226,7 +1244,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.37477797" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.11190053" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -1315,16 +1333,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/addressbook-selenium-tests/src/test/java/com/telran/addressbook/GroupCreationTests.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="391">
-          <caret line="23" selection-start-line="23" selection-end-line="23" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/com.telran.santboxQA15/build.gradle">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="136">
@@ -1375,20 +1383,68 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/first-selenium-project/src/test/java/com/tel/ran/qa15/sandbox/Ebay.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="29">
+          <caret line="15" column="17" lean-forward="true" selection-start-line="15" selection-start-column="17" selection-end-line="15" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/first-selenium-project/src/test/java/com/tel/ran/qa15/sandbox/homework2/OpenWikiAndSearchJava.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="250">
-          <caret line="22" column="1" lean-forward="true" selection-start-line="22" selection-start-column="1" selection-end-line="22" selection-end-column="1" />
+        <state relative-caret-position="313">
+          <caret line="23" selection-start-line="23" selection-end-line="23" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/first-selenium-project/src/test/java/com/tel/ran/qa15/sandbox/Ebay.java">
+    <entry file="file://$PROJECT_DIR$/addressbook-selenium-tests/src/test/java/com/telran/addressbook/GroupCreationTests.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="505">
-          <caret line="43" lean-forward="true" selection-start-line="43" selection-end-line="43" />
+        <state relative-caret-position="17">
+          <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/addressbook-selenium-tests/src/test/java/com/telran/addressbook/GroupDelete.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/addressbook-selenium-tests/src/test/java/com/telran/addressbook/GroupModificationTests.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/addressbook-selenium-tests/src/test/java/com/telran/addressbook/TestBase.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="58" column="28" lean-forward="true" selection-start-line="58" selection-start-column="28" selection-end-line="58" selection-end-column="28" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#988#989#0" expanded="true" />
+            <element signature="e#1068#1069#0" expanded="true" />
+            <element signature="e#1109#1110#0" expanded="true" />
+            <element signature="e#1166#1167#0" expanded="true" />
+            <element signature="e#1454#1455#0" expanded="true" />
+            <element signature="e#1508#1509#0" expanded="true" />
+            <element signature="e#1544#1545#0" expanded="true" />
+            <element signature="e#1622#1623#0" expanded="true" />
+            <element signature="e#1693#1694#0" expanded="true" />
+            <element signature="e#1733#1734#0" expanded="true" />
+            <element signature="e#1790#1791#0" expanded="true" />
+            <element signature="e#1833#1834#0" expanded="true" />
+            <element signature="e#1913#1914#0" expanded="true" />
+            <element signature="e#1946#1947#0" expanded="true" />
+            <element signature="e#1999#2000#0" expanded="true" />
+            <element signature="e#2032#2033#0" expanded="true" />
+            <element signature="e#2085#2086#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>

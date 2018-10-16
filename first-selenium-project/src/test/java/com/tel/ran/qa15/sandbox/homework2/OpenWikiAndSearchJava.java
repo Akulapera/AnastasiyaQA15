@@ -20,4 +20,6 @@ public class OpenWikiAndSearchJava extends TestBase{
         pressButton();
     }
 
+
+
 }
