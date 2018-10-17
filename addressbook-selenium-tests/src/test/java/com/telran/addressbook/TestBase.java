@@ -75,4 +75,39 @@ public class TestBase {
     public void deleteGroup() {
         wd.findElement(By.name("delete")).click();
     }
+
+    public void submitNameCreation() {
+        wd.findElement(By.name("submit")).click();
+    }
+
+    public void openNamePage() {
+
+        wd.findElement(By.cssSelector("a[href=\"edit.php\"]")).click();
+    }
+
+    public void fillNameForm(String nameFirstName, String nameLastName,
+                              String nameAddress, String nameTelephone, String nameEmail) {
+        type(By.name("firstname"), nameFirstName);
+        type(By.name("lastname"), nameLastName);
+        type(By.name("address"), nameAddress);
+        type(By.name("home"), nameTelephone);
+        type(By.name("email"), nameEmail);
+
+    }
+
+    public void deleteName() {
+        wd.findElement(By.xpath("//input[@value='Delete']")).click();
+    }
+
+    public void selectName() {
+        wd.findElement(By.name("selected[]")).click();
+    }
+
+    public void updateName() {
+        wd.findElement(By.name("update")).click();
+    }
+
+    public void selectNameForModify() {
+        wd.findElement(By.cssSelector("a[href=\"edit.php?id=4\"]")).click();
+    }
 }
