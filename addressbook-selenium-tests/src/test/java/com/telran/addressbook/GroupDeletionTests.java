@@ -1,24 +1,28 @@
 package com.telran.addressbook;
 
+import org.testng.Assert;
 import org.testng.annotations.BeforeMethod;
 import org.testng.annotations.Test;
 
 public class GroupDeletionTests extends TestBase {
      @BeforeMethod
      public  void preconditions () {
-         openGroupsPage();
-         if (!isGroupPresent()) {
-             createCroup();
+         app.openGroupsPage();
+         if (!app.isGroupPresent()) {
+             app.createCroup();
          }
      }
 
 
     @Test
     public void testGroupDeletion(){
-    openGroupsPage();
-    selectGroup();
-    deleteGroup();
-    returnToGroupPage();
+    app.openGroupsPage();
+    int before= app.getGroupsCount();
+    app.selectGroup();
+    app.deleteGroup();
+    app.returnToGroupPage();
+    int after= app.getGroupsCount();
+    Assert.assertEquals(after, before-1);
 }
 
 }

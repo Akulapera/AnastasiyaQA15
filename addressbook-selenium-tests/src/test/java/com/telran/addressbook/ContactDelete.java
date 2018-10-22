@@ -7,14 +7,14 @@ public class ContactDelete extends TestBase {
     @BeforeMethod
     public void preconditions()
     {
-        if(!isGContactPresent()){
-           createContact();
+        if(!app.isGContactPresent()){
+           app.createContact();
         }
     }
 
     @Test
      public void ContactDelete(){
-        selectContact();
-        deleteContact();
+        app.selectContact();
+        app.deleteContact();
     }
 }
