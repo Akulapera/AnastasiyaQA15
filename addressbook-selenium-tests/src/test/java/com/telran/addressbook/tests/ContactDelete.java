@@ -1,4 +1,4 @@
-package com.telran.addressbook;
+package com.telran.addressbook.tests;
 
 import org.testng.annotations.BeforeMethod;
 import org.testng.annotations.Test;

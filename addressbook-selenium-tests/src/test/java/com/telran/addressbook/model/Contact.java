@@ -1,4 +1,4 @@
-package com.telran.addressbook;
+package com.telran.addressbook.model;
 
 public class Contact {
     private  String nameFirstName;
