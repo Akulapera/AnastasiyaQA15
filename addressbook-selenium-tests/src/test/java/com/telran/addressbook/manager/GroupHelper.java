@@ -48,7 +48,7 @@ public class GroupHelper extends HelperBase {
         return isElementPresent(By.name("selected[]"));
     }
 
-    protected void createCroup() {
+    public void createCroup() {
         initGroupCreation();
         fillGroupForm(new Group()
                 .setGroupFooter("ttt")

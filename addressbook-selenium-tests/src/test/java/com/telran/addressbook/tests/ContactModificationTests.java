@@ -8,20 +8,20 @@ public class ContactModificationTests extends TestBase {
     @BeforeMethod
     public void preconditions()
     {
-        if(!app.isGContactPresent()){
-            app.createContact();
+        if(!app.getContactHelper().isGContactPresent()){
+            app.getContactHelper().createContact();
         }
     }
     @Test
     public void testContactModification(){
-        app.selectContactForModify();
-        app.fillContactForm(new Contact()
+        app.getContactHelper().selectContactForModify();
+        app.getContactHelper().fillContactForm(new Contact()
                 .setNameLastName("Kuznet")
                 .setNameEmail("iuui@com")
                 .setNameFirstName("Vita")
                 .setNameAddress("Lvov")
                 .setNameTelephone("0675554433"));
-        app.updateContact();
+        app.getContactHelper().updateContact();
     }
 
 }
