@@ -16,5 +16,11 @@ public class ContactDelete extends TestBase {
      public void ContactDelete(){
         app.getContactHelper().selectContact();
         app.getContactHelper().deleteContact();
-    }
+       // try {
+        ////    Thread.sleep(3000);
+       /// } catch (InterruptedException e) {
+         //   e.printStackTrace();
+        }
+       // app.getContactHelper().alertNameDeletion();
+    //}
 }

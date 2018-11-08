@@ -3,8 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/addressbook-selenium-tests.iml" filepath="$PROJECT_DIR$/.idea/modules/addressbook-selenium-tests.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/addressbook-selenium-tests_main.iml" filepath="$PROJECT_DIR$/.idea/modules/addressbook-selenium-tests_main.iml" group="addressbook-selenium-tests" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/addressbook-selenium-tests_test.iml" filepath="$PROJECT_DIR$/.idea/modules/addressbook-selenium-tests_test.iml" group="addressbook-selenium-tests" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/com.telran.santboxQA15.iml" filepath="$PROJECT_DIR$/.idea/modules/com.telran.santboxQA15.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/com.telran.santboxQA15_main.iml" filepath="$PROJECT_DIR$/.idea/modules/com.telran.santboxQA15_main.iml" group="com.telran.santboxQA15" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/com.telran.santboxQA15_test.iml" filepath="$PROJECT_DIR$/.idea/modules/com.telran.santboxQA15_test.iml" group="com.telran.santboxQA15" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/first-selenium-project.iml" filepath="$PROJECT_DIR$/.idea/modules/first-selenium-project.iml" />

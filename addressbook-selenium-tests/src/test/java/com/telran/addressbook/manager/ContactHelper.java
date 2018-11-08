@@ -31,6 +31,7 @@ public class ContactHelper extends HelperBase{
 
     public void deleteContact() {
         click(By.xpath("//input[@value='Delete']"));
+
     }
 
     public void selectContact() {
@@ -49,6 +50,11 @@ public class ContactHelper extends HelperBase{
         return isElementPresent(By.name("selected[]"));
         // name("selected[]"));
     }
+
+   // public void alertNameDeletion(){
+    //    wd.switchTo().alert().accept();
+    //}
+
 
     public void createContact() {
         openContactPage();
