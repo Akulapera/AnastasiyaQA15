@@ -36,7 +36,7 @@ public class ApplicationManager {
             wd = new EdgeDriver();
         }
         else if (browser.equals(BrowserType.IE)) {
-            wd = new EdgeDriver();
+            wd = new  EdgeDriver();
         }
         wd.manage().timeouts().implicitlyWait(5, TimeUnit.SECONDS);
         navigationHelper=new NavigationHelper(wd);
