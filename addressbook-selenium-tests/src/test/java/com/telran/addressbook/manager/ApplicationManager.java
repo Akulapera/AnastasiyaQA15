@@ -32,7 +32,10 @@ public class ApplicationManager {
        else if(browser.equals(BrowserType.FIREFOX)){
             wd = new FirefoxDriver();
         }
-        else if (browser.equals(BrowserType.EDGE)){
+        else if (browser.equals(BrowserType.EDGE)) {
+            wd = new EdgeDriver();
+        }
+        else if (browser.equals(BrowserType.IE)) {
             wd = new EdgeDriver();
         }
         wd.manage().timeouts().implicitlyWait(5, TimeUnit.SECONDS);
