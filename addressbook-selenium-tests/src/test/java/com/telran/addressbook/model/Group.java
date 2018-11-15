@@ -5,7 +5,14 @@ public class Group {
     private String groupHeader;
     private  String groupFooter;
 
-
+    @Override
+    public String toString() {
+        return "Group{" +
+                "groupName='" + groupName + '\'' +
+                ", groupHeader='" + groupHeader + '\'' +
+                ", groupFooter='" + groupFooter + '\'' +
+                '}';
+    }
 
     public Group setGroupName(String groupName) {
         this.groupName = groupName;

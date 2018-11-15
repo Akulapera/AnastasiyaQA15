@@ -29,7 +29,8 @@ public class GroupHelper extends HelperBase {
     }
 
     public void openGroupsPage() {
-        click(By.cssSelector("[href=\"group.php\"]"));
+      //  click(By.cssSelector("[href=\"group.php\"]")); prishlos zamenit selector
+        click(By.xpath("//a[contains(text(),'groups')]"));
     }
 
     public void initGroupModification() {

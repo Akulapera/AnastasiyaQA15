@@ -15,8 +15,9 @@ public class GroupDeletionTests extends TestBase {
 
 
     @Test
-    public void testGroupDeletion(){
+    public void testGroupDeletion() throws InterruptedException {
     app.getGroupHelper().openGroupsPage();
+    Thread.sleep(4000);
     int before= app.getGroupHelper().getGroupsCount();
     app.getGroupHelper().selectGroup();
     app.getGroupHelper().deleteGroup();

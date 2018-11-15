@@ -30,7 +30,8 @@ public class ContactHelper extends HelperBase{
     }
 
     public void deleteContact() {
-        click(By.xpath("//input[@value='Delete']"));
+     //   click(By.xpath("//input[@value='Delete']"));
+        click(By.cssSelector("[value='Delete']"));
 
     }
 
@@ -47,13 +48,11 @@ public class ContactHelper extends HelperBase{
     }
 
     public boolean isGContactPresent() {
-        return isElementPresent(By.name("selected[]"));
+        return isElementPresent(By.cssSelector("[type=checkbox]"));
+        //return isElementPresent(By.name("selected[]"));
         // name("selected[]"));
     }
 
-   // public void alertNameDeletion(){
-    //    wd.switchTo().alert().accept();
-    //}
 
 
     public void createContact() {
